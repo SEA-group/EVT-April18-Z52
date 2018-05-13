@@ -1,0 +1,8 @@
+<GSD009_Z52_1945_MidBack.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/ship/destroyer/GSD014_Z52_Space_1945/lods/GSD014_Z52_Space_1945_MidBack_lod1	</parent>
+	<extent>	7.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/ship/destroyer/GSD014_Z52_Space_1945/GSD014_Z52_Space_1945_MidBack	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GSD009_Z52_1945_MidBack.model>

@@ -1,0 +1,8 @@
+<GGT078_533mm_QuadTube.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/gun/torpedo/GGT303_533mm_QuadTube/lods/GGT303_533mm_QuadTube_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/gun/torpedo/GGT303_533mm_QuadTube/GGT303_533mm_QuadTube	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGT078_533mm_QuadTube.model>

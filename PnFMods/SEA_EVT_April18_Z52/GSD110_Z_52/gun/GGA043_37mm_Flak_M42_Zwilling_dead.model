@@ -1,0 +1,9 @@
+<GGA043_37mm_Flak_M42_Zwilling_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/gun/aaircraft/GGA302_37mm_Flak_M42_twin/lods/GGA302_37mm_Flak_M42_twin_dead_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<materialNames />
+	<nodefullVisual>	content/gameplay/germany/gun/aaircraft/GGA302_37mm_Flak_M42_twin/GGA302_37mm_Flak_M42_twin_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGA043_37mm_Flak_M42_Zwilling_dead.model>
